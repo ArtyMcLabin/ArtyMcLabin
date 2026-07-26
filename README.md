@@ -1,3 +1,6 @@
-# Hi, I'm Arty McLabin
+* Free goodies: [artymclabin.com](https://artymclabin.com)
+* Podcast: [artymclabin.com/podcast](https://artymclabin.com/podcast)
+* Free consultation in Business Engineering: [artymclabin.com/consult](https://artymclabin.com/consult)
+* Produce content like i do: [artymclabin.com/produce](https://artymclabin.com/produce)
 
-[![committers.top badge](https://user-badge.committers.top/israel/artymclabin.svg)](https://user-badge.committers.top/israel/artymclabin)
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/ArtyMcLabin.svg)](https://ghcommits.com/u/ArtyMcLabin)
