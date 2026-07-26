@@ -1,4 +1,4 @@
-# Feel free to follow here and in my other socials
+# Follow me, it's good. i give, you receive.
 
 * Free goodies: [artymclabin.com](https://artymclabin.com)
 * Podcast: [artymclabin.com/podcast](https://artymclabin.com/podcast)
